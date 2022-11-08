@@ -1,5 +1,7 @@
 # Continual Graph Learning Papers
 
+Continual graph learning is an intersection of continual learning and graph learning. This repo will continuously collect and update the latest continual graph learning papers.
+
 1. GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems [paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412754)
 
 2. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [paper](https://ojs.aaai.org/index.php/AAAI/article/download/5942/5798) [code](https://github.com/Luoyadan/BGNN-AAAI)
