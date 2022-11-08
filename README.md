@@ -12,7 +12,7 @@
 
 6. OpenWGL: Open-World Graph Learning [paper](https://ieeexplore.ieee.org/iel7/9338245/9338248/09338284.pdf)
 
-7. Overcoming Catastrophic Forgetting in Graph Neural Networks [paper]https://ojs.aaai.org/index.php/AAAI/article/view/17049/16856
+7. Overcoming Catastrophic Forgetting in Graph Neural Networks [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17049/16856)
 
 8. Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16602/16409)
 
